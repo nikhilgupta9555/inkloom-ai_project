@@ -1,6 +1,6 @@
 # Inkloom AI
 
-**Repository:** https://github.com/nikhilgupta9555/inkloom-ai
+**Repository:** https://github.com/nikhilgupta9555/inkloom-ai_project
 
 Inkloom AI is an intelligent brand‑governance platform that helps organisations maintain a consistent and trustworthy brand identity. It uses AI to analyse text, images, and documents against approved brand guidelines, facts, terminology, and visual assets, detecting inconsistencies, unsupported claims, and accessibility issues. The system provides explainable reports with correction suggestions and supports the human‑in‑the‑loop approval workflow.
 
